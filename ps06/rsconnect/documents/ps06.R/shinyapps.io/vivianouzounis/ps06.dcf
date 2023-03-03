@@ -5,9 +5,9 @@ account: vivianouzounis
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 8465514
-bundleId: 6910285
+bundleId: 6910317
 url: https://vivianouzounis.shinyapps.io/ps06/
-when: 1677820544.07342
-lastSyncTime: 1677820544.07343
+when: 1677821621.82344
+lastSyncTime: 1677821621.82345
 asMultiple: FALSE
 asStatic: FALSE

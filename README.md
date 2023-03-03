@@ -13,3 +13,4 @@ pick the color of the bar.
 On the tab with the *table*, the widget allows you to filter the data by picking the level of force. 
 
 ## Link to App
+https://vivianouzounis.shinyapps.io/ps06/
